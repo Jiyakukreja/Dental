@@ -69,7 +69,7 @@ function AddDoctorDialog({ isOpen, onClose }: AddDoctorDialogProps) {
                 id="new-name"
                 value={newDoctor.name}
                 onChange={(e) => setNewDoctor({ ...newDoctor, name: e.target.value })}
-                placeholder="Dr. John Smith"
+                placeholder="Dr. Rajesh Kumar"
               />
             </div>
             <div className="space-y-2">
@@ -90,7 +90,7 @@ function AddDoctorDialog({ isOpen, onClose }: AddDoctorDialogProps) {
               type="email"
               value={newDoctor.email}
               onChange={(e) => setNewDoctor({ ...newDoctor, email: e.target.value })}
-              placeholder="doctor@example.com"
+              placeholder="doctor@dentwise.in"
             />
           </div>
           <div className="space-y-2">
@@ -99,7 +99,7 @@ function AddDoctorDialog({ isOpen, onClose }: AddDoctorDialogProps) {
               id="new-phone"
               value={newDoctor.phone}
               onChange={(e) => handlePhoneChange(e.target.value)}
-              placeholder="(555) 123-4567"
+              placeholder="+91 98765 43210"
             />
           </div>
 

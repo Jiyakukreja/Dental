@@ -13,7 +13,8 @@ async function VoicePage() {
 
   const hasProPlan = has({ plan: "ai_basic" }) || has({ plan: "ai_pro" });
 
-  if (!hasProPlan) return <ProPlanRequired />;
+  // Temporarily disabled for testing - remove this comment to re-enable Pro plan requirement
+  // if (!hasProPlan) return <ProPlanRequired />;
 
   return (
     <div className="min-h-screen bg-background">

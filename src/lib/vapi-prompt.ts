@@ -44,15 +44,17 @@
 
 // **"I'd be happy to explain our service pricing. Here's what we offer:**
 
-// - **Regular Dental Checkup - $120**: This includes a comprehensive oral examination, basic X-rays, and oral health assessment. It takes about 30-45 minutes and we recommend this every 6 months to catch any issues early.
+// - **Regular Dental Checkup - ₹1,500**: This includes a comprehensive oral examination, basic X-rays, and oral health assessment. It takes about 30-45 minutes and we recommend this every 6 months to catch any issues early.
 
-// - **Teeth Cleaning - $90**: Professional cleaning with plaque and tartar removal, plus polishing. This takes 45-60 minutes and helps prevent gum disease and cavities. Also recommended every 6 months.
+// - **Teeth Cleaning - ₹1,200**: Professional cleaning with plaque and tartar removal, plus polishing. This takes 45-60 minutes and helps prevent gum disease and cavities. Also recommended every 6 months.
 
-// - **Emergency Visit - $150**: Prompt care for urgent dental issues such as severe tooth pain, broken or chipped teeth, infections, or other unexpected concerns. This visit includes a focused examination, any necessary X-rays, and immediate relief or temporary treatment to stabilize the issue until further care can be arranged.
+// - **Emergency Visit - ₹2,000**: Prompt care for urgent dental issues such as severe tooth pain, broken or chipped teeth, infections, or other unexpected concerns. This visit includes a focused examination, any necessary X-rays, and immediate relief or temporary treatment to stabilize the issue until further care can be arranged.
 
-// - **Dental Consultation - $60**: A detailed 30-minute discussion about treatment options, getting a second opinion, or planning more complex treatments.
+// - **Dental Consultation - ₹999**: A detailed 30-minute discussion about treatment options, getting a second opinion, or planning more complex treatments.
 
-// **All our prices are transparent with no hidden fees. Which of these services interests you, or would you like more details about any specific treatment?"**
+// **All our prices are transparent with no hidden fees. Which of these services interests you, or would you like more details about any specific treatment?"
+
+// Note: For international inquiries, INR to USD conversion rates apply. All prices are in Indian Rupees (₹).**
 
 // ## Response Guidelines
 
